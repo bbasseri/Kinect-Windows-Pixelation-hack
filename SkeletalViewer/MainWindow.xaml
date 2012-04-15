@@ -1,0 +1,38 @@
+﻿<Window x:Class="SkeletalViewer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Pixelating 500px" Icon="SkeletalViewer.ico"
+        WindowStartupLocation="CenterScreen" SizeToContent="WidthAndHeight"
+        Loaded="Window_Loaded" Closed="Window_Closed">
+    <Window.Resources>
+        <!-- enables scrolling on ItemsControl -->
+        <ControlTemplate x:Key="ScrollingItemsControl" TargetType="ItemsControl">
+            <Border BorderThickness="{TemplateBinding Border.BorderThickness}" Padding="{TemplateBinding Control.Padding}"
+                    BorderBrush="{TemplateBinding Border.BorderBrush}" Background="{TemplateBinding Panel.Background}" SnapsToDevicePixels="True">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <ItemsPresenter SnapsToDevicePixels="{TemplateBinding UIElement.SnapsToDevicePixels}" />
+                </ScrollViewer>
+            </Border>
+        </ControlTemplate>
+    </Window.Resources>
+
+    <Grid VerticalAlignment="Center" MouseDown="mouseDown" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <StackPanel Name="insertKinectSensor" Width="600" Grid.Row="0">
+            <TextBlock FontSize="48" HorizontalAlignment="Center" Name="kinectRequiredOrEnabled"></TextBlock>
+            <TextBlock FontSize="24" FontStyle="Italic" HorizontalAlignment="Center"></TextBlock>
+        </StackPanel>
+
+        <ItemsControl Name="viewerHolder" Template="{StaticResource ScrollingItemsControl}" Grid.Row="1"/>
+
+        <TextBlock Name="insertAnotherKinectSensor" FontSize="36" HorizontalAlignment="Center" Width="600" Grid.Row="2"
+                   Visibility="Hidden"></TextBlock>
+        <TextBlock Name="switchToAnotherKinectSensor" FontSize="36" HorizontalAlignment="Center" Width="600" Grid.Row="3"
+                   Visibility="Hidden"></TextBlock>
+    </Grid>
+</Window>

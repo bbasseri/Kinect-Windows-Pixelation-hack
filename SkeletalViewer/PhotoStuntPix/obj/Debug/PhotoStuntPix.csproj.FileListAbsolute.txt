@@ -1,0 +1,5 @@
+C:\Users\Reza\Documents\pixel2\pixelation\SkeletalViewer\PhotoStuntPix\bin\Debug\PhotoStuntPix.dll
+C:\Users\Reza\Documents\pixel2\pixelation\SkeletalViewer\PhotoStuntPix\bin\Debug\PhotoStuntPix.pdb
+C:\Users\Reza\Documents\pixel2\pixelation\SkeletalViewer\PhotoStuntPix\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Reza\Documents\pixel2\pixelation\SkeletalViewer\PhotoStuntPix\obj\Debug\PhotoStuntPix.dll
+C:\Users\Reza\Documents\pixel2\pixelation\SkeletalViewer\PhotoStuntPix\obj\Debug\PhotoStuntPix.pdb

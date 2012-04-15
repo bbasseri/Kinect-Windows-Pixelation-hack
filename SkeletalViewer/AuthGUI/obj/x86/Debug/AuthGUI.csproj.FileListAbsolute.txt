@@ -1,0 +1,11 @@
+C:\Users\Reza\Documents\pixel2\pixelation\SkeletalViewer\AuthGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Reza\Documents\pixel2\pixelation\SkeletalViewer\AuthGUI\obj\x86\Debug\AuthorizeWindow.baml
+C:\Users\Reza\Documents\pixel2\pixelation\SkeletalViewer\AuthGUI\obj\x86\Debug\MainWindow.baml
+C:\Users\Reza\Documents\pixel2\pixelation\SkeletalViewer\AuthGUI\obj\x86\Debug\AuthorizeWindow.g.cs
+C:\Users\Reza\Documents\pixel2\pixelation\SkeletalViewer\AuthGUI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Reza\Documents\pixel2\pixelation\SkeletalViewer\AuthGUI\obj\x86\Debug\App.g.cs
+C:\Users\Reza\Documents\pixel2\pixelation\SkeletalViewer\AuthGUI\obj\x86\Debug\AuthGUI_MarkupCompile.cache
+C:\Users\Reza\Documents\pixel2\pixelation\SkeletalViewer\AuthGUI\obj\x86\Debug\AuthGUI.g.resources
+C:\Users\Reza\Documents\pixel2\pixelation\SkeletalViewer\AuthGUI\obj\x86\Debug\AuthGUI.Properties.Resources.resources
+C:\Users\Reza\Documents\pixel2\pixelation\SkeletalViewer\AuthGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Reza\Documents\pixel2\pixelation\SkeletalViewer\AuthGUI\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,30 @@
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\LinkedInOauth\LinkedInOauth\bin\Debug\LinkedInOauth.exe
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\LinkedInOauth\LinkedInOauth\bin\Debug\LinkedInOauth.pdb
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\LinkedInOauth\LinkedInOauth\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\LinkedInOauth\LinkedInOauth\obj\Debug\AuthorizeWindow.baml
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\LinkedInOauth\LinkedInOauth\obj\Debug\Window1.baml
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\LinkedInOauth\LinkedInOauth\obj\Debug\AuthorizeWindow.g.cs
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\LinkedInOauth\LinkedInOauth\obj\Debug\Window1.g.cs
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\LinkedInOauth\LinkedInOauth\obj\Debug\App.g.cs
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\LinkedInOauth\LinkedInOauth\obj\Debug\LinkedInOauth_MarkupCompile.cache
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\LinkedInOauth\LinkedInOauth\obj\Debug\LinkedInOauth.g.resources
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\LinkedInOauth\LinkedInOauth\obj\Debug\LinkedInOauth.Properties.Resources.resources
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\LinkedInOauth\LinkedInOauth\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\LinkedInOauth\LinkedInOauth\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\LinkedInOauth\LinkedInOauth\obj\Debug\LinkedInOauth.exe
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\LinkedInOauth\LinkedInOauth\obj\Debug\LinkedInOauth.pdb
+C:\Users\Reza\Documents\pixel2\pixelation\LinkedInOauth\bin\Debug\LinkedInOauth.exe
+C:\Users\Reza\Documents\pixel2\pixelation\LinkedInOauth\bin\Debug\LinkedInOauth.pdb
+C:\Users\Reza\Documents\pixel2\pixelation\LinkedInOauth\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Reza\Documents\pixel2\pixelation\LinkedInOauth\obj\Debug\AuthorizeWindow.baml
+C:\Users\Reza\Documents\pixel2\pixelation\LinkedInOauth\obj\Debug\Window1.baml
+C:\Users\Reza\Documents\pixel2\pixelation\LinkedInOauth\obj\Debug\AuthorizeWindow.g.cs
+C:\Users\Reza\Documents\pixel2\pixelation\LinkedInOauth\obj\Debug\Window1.g.cs
+C:\Users\Reza\Documents\pixel2\pixelation\LinkedInOauth\obj\Debug\App.g.cs
+C:\Users\Reza\Documents\pixel2\pixelation\LinkedInOauth\obj\Debug\LinkedInOauth_MarkupCompile.cache
+C:\Users\Reza\Documents\pixel2\pixelation\LinkedInOauth\obj\Debug\LinkedInOauth.g.resources
+C:\Users\Reza\Documents\pixel2\pixelation\LinkedInOauth\obj\Debug\LinkedInOauth.Properties.Resources.resources
+C:\Users\Reza\Documents\pixel2\pixelation\LinkedInOauth\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Reza\Documents\pixel2\pixelation\LinkedInOauth\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Reza\Documents\pixel2\pixelation\LinkedInOauth\obj\Debug\LinkedInOauth.exe
+C:\Users\Reza\Documents\pixel2\pixelation\LinkedInOauth\obj\Debug\LinkedInOauth.pdb

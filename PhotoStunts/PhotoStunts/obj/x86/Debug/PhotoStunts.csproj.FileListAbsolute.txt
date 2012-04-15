@@ -1,0 +1,12 @@
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\PhotoStunts\PhotoStunts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\PhotoStunts\PhotoStunts\bin\Debug\PhotoStunts.exe.config
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\PhotoStunts\PhotoStunts\bin\Debug\PhotoStunts.exe
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\PhotoStunts\PhotoStunts\bin\Debug\PhotoStunts.pdb
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\PhotoStunts\PhotoStunts\obj\x86\Debug\PhotoStunts.exe
+C:\Users\Oloruntobi Ogunbiyi.Drone\500px\pixelation\PhotoStunts\PhotoStunts\obj\x86\Debug\PhotoStunts.pdb
+C:\Users\Reza\Documents\pixel2\pixelation\PhotoStunts\PhotoStunts\bin\Debug\PhotoStunts.exe.config
+C:\Users\Reza\Documents\pixel2\pixelation\PhotoStunts\PhotoStunts\bin\Debug\PhotoStunts.exe
+C:\Users\Reza\Documents\pixel2\pixelation\PhotoStunts\PhotoStunts\bin\Debug\PhotoStunts.pdb
+C:\Users\Reza\Documents\pixel2\pixelation\PhotoStunts\PhotoStunts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Reza\Documents\pixel2\pixelation\PhotoStunts\PhotoStunts\obj\x86\Debug\PhotoStunts.exe
+C:\Users\Reza\Documents\pixel2\pixelation\PhotoStunts\PhotoStunts\obj\x86\Debug\PhotoStunts.pdb

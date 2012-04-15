@@ -1,0 +1,19 @@
+﻿<Window x:Class="Attassa.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:wf="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"  
+    Title="Pixelating 500px" Width="506" Height="240" Loaded="Window_Loaded">
+    <StackPanel>
+        <TextBlock Margin="10" FontSize="14">Login / Display:</TextBlock>
+        <Button Margin ="10" Click="goNavigateButton_Click" Width="70">Login</Button>
+        <TextBlock Margin="5" Name="succOutput"></TextBlock>
+        <!--<Button Margin="10" Click="Profile_Click">Display Profile</Button>
+        <TextBlock Margin="10" FontSize="14">Update Status:</TextBlock>
+        <TextBox Margin="10" Height="20" Name="txtStatusUpdate">Status Update ....</TextBox>
+        <Button Margin="10" Click="Status_Click">Update Status</Button>
+        <TextBlock Margin="10" FontSize="14">Output:</TextBlock>-->
+        <TextBlock Margin="10" Name="txtOutput" Padding="10" Background="White" Foreground="Black" Height="58" Width="408">Output</TextBlock>
+    </StackPanel>
+
+
+</Window>
